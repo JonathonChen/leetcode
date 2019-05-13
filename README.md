@@ -92,10 +92,10 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
-- ~~[0020.Valid Parentheses](./problems/20.validParentheses.md)
-- ~~[0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
-- ~~[0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
-- [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md) 🆕
+- ~~[0020.Valid Parentheses]~~(./problems/20.validParentheses.md)
+- ~~[0026.remove-duplicates-from-sorted-array]~~(./problems/26.remove-duplicates-from-sorted-array.md)
+- ~~[0088.merge-sorted-array]~~(./problems/88.merge-sorted-array.md)
+- ~~[0121.best-time-to-buy-and-sell-stock]~~(./problems/121.best-time-to-buy-and-sell-stock.md) 🆕
 - [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md) 🆕
 - [0136.single-number](./problems/136.single-number.md)
 - [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)

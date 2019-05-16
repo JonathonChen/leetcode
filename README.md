@@ -98,7 +98,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - ~~[0121.best-time-to-buy-and-sell-stock]~~(./problems/121.best-time-to-buy-and-sell-stock.md) 🆕
 - ~~[0122.best-time-to-buy-and-sell-stock-ii]~~(./problems/122.best-time-to-buy-and-sell-stock-ii.md) 🆕
 - ~~[0136.single-number]~~(./problems/136.single-number.md)
-- [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
+- ~~[0167.two-sum-ii-input-array-is-sorted]~~(./problems/167.two-sum-ii-input-array-is-sorted.md)
 - [0169.majority-element](./problems/169.majority-element.md)
 - [0190.reverse-bits](./problems/190.reverse-bits.md)
 - [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)

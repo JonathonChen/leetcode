@@ -106,8 +106,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - ~~[0203.remove-linked-list-elements]~~(./problems/203.remove-linked-list-elements.md)
 - ~~[0206.reverse-linked-list]~~(./problems/206.reverse-linked-list.md)
 - ~~[0219.contains-duplicate-ii]~~(./problems/219.contains-duplicate-ii.md)
-- [0226.invert-binary-tree](./problems/226.invert-binary-tree.md)
-- [0283.move-zeroes](./problems/283.move-zeroes.md)
+- ~~[0226.invert-binary-tree]~~(./problems/226.invert-binary-tree.md)
+- ~~[0283.move-zeroes]~~(./problems/283.move-zeroes.md)
 - [0349.intersection-of-two-arrays](./problems/349.intersection-of-two-arrays.md)
 
 

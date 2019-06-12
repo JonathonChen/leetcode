@@ -118,7 +118,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - ~~[0011.container-with-most-water]~~(./problems/11.container-with-most-water.md)
 - ~~[0015.3-sum]~~(./problems/15.3-sum.md) 🆕
 - ~~[0019. Remove Nth Node From End of List]~~(./problems/19.removeNthNodeFromEndofList.md)
-- [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
+- ~~[0024. Swap Nodes In Pairs]~~(./problems/24.swapNodesInPairs.md)
 - [0039.combination-sum](./problems/39.combination-sum.md)
 - [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)
 - [0046.permutations](./problems/46.permutations.md)

@@ -121,7 +121,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - ~~[0024. Swap Nodes In Pairs]~~(./problems/24.swapNodesInPairs.md)
 - [0039.combination-sum](./problems/39.combination-sum.md) ☑️
 - [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)☑️
-- [0046.permutations](./problems/46.permutations.md)
+- [0046.permutations](./problems/46.permutations.md)☑️
 - [0047.permutations-ii](./problems/47.permutations-ii.md)
 - [0055.jump-game](./problems/55.jump-game.md) 🆕 
 - [0062.unique-paths](./problems/62.unique-paths.md )🆕 

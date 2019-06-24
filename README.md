@@ -124,8 +124,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0046.permutations](./problems/46.permutations.md)☑️
 - [0047.permutations-ii](./problems/47.permutations-ii.md)☑️
 - [0055.jump-game](./problems/55.jump-game.md) 🆕 ☑️
-- [0062.unique-paths](./problems/62.unique-paths.md )🆕 
-- [0075.sort-colors](./problems/75.sort-colors.md)
+- [0062.unique-paths](./problems/62.unique-paths.md )🆕 ☑️
+- [0075.sort-colors](./problems/75.sort-colors.md)☑️
 - [0078.subsets](./problems/78.subsets.md) 🆕 
 - [0086.partition-list](./problems/86.partition-list.md)
 - [0090.subsets-ii](./problems/90.subsets-ii.md)

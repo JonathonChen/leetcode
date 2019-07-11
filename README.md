@@ -134,9 +134,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0094.binary-tree-inorder-traversal](./problems/94.binary-tree-inorder-traversal.md)☑️
 - [0102.binary-tree-level-order-traversal](./problems/102.binary-tree-level-order-traversal.md)☑️
 - [0103.binary-tree-zigzag-level-order-traversal](./problems/103.binary-tree-zigzag-level-order-traversal.md)☑️
-- [0139.word-break](./problems/139.word-breakmd)
-- [0144.binary-tree-preorder-traversal](./problems/144.binary-tree-preorder-traversal.md)
-- [0150.evaluate-reverse-polish-notation](./problems/150.evaluate-reverse-polish-notation.md) 🖊
+- [0139.word-break](./problems/139.word-breakmd) ☑️
+- [0144.binary-tree-preorder-traversal](./problems/144.binary-tree-preorder-traversal.md) ☑️
+- [0150.evaluate-reverse-polish-notation](./problems/150.evaluate-reverse-polish-notation.md) 🖊 ☑️
 - [0152.maximum-product-subarray](./problems/152.maximum-product-subarray.md) 🆕  
 - [0199.binary-tree-right-side-view](./problems/199.binary-tree-right-side-view.md)
 - [0201.bitwise-and-of-numbers-range](./problems/201.bitwise-and-of-numbers-range.md)

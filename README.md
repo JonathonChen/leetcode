@@ -139,7 +139,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0150.evaluate-reverse-polish-notation](./problems/150.evaluate-reverse-polish-notation.md) 🖊 ☑️
 - [0152.maximum-product-subarray](./problems/152.maximum-product-subarray.md) 🆕☑️
 - [0199.binary-tree-right-side-view](./problems/199.binary-tree-right-side-view.md)☑️
-- [0201.bitwise-and-of-numbers-range](./problems/201.bitwise-and-of-numbers-range.md)
+- [0201.bitwise-and-of-numbers-range](./problems/201.bitwise-and-of-numbers-range.md) ☑️
 - [0208.implement-trie-prefix-tree](./problems/208.implement-trie-prefix-tree.md) 🆕 
 - [0209.minimum-size-subarray-sum](./problems/209.minimum-size-subarray-sum.md) 🖊 
 - [0236.lowest-common-ancestor-of-a-binary-tree](./problems/236.lowest-common-ancestor-of-a-binary-tree.md)🆕 

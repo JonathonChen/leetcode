@@ -142,7 +142,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0201.bitwise-and-of-numbers-range](./problems/201.bitwise-and-of-numbers-range.md) ☑️
 - [0208.implement-trie-prefix-tree](./problems/208.implement-trie-prefix-tree.md) 🆕  ☑️
 - [0209.minimum-size-subarray-sum](./problems/209.minimum-size-subarray-sum.md) 🖊 ☑️
-- [0236.lowest-common-ancestor-of-a-binary-tree](./problems/236.lowest-common-ancestor-of-a-binary-tree.md)🆕 
+- [0236.lowest-common-ancestor-of-a-binary-tree](./problems/236.lowest-common-ancestor-of-a-binary-tree.md)🆕 ☑️
 - [0238.product-of-array-except-self](./problems/238.product-of-array-except-self.md) 🆕 
 - [0240.search-a-2-d-matrix-ii](./problems/240.search-a-2-d-matrix-ii.md)
 - [0279.perfect-squares](./problems/279.perfect-squares.md)

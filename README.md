@@ -148,7 +148,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [0279.perfect-squares](./problems/279.perfect-squares.md) ☑️
 - [0309.best-time-to-buy-and-sell-stock-with-cooldown](./problems/309.best-time-to-buy-and-sell-stock-with-cooldown.md) 🆕 ☑️
 - [0322.coin-change](./problems/322.coin-change.md)☑️
-- [0334.increasing-triplet-subsequence](./problems/334.increasing-triplet-subsequence.md)
+- [0334.increasing-triplet-subsequence](./problems/334.increasing-triplet-subsequence.md) ☑️
 - [0328.odd-even-linked-list](./problems/328.odd-even-linked-list.md)
 - [0416.partition-equal-subset-sum](./problems/416.partition-equal-subset-sum.md)
 - [0445.add-two-numbers-ii](./problems/445.add-two-numbers-ii.md)
